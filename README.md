@@ -31,7 +31,7 @@
 ## 프로젝트 소개
 
 
-![Logo](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/b71a9d785a2a244fe3cf7cde84f9aca3/Logo.png)
+
 
 * 프로젝트명: MOVI
 * Description
@@ -75,39 +75,20 @@
 - 왼쪽 버튼을 통해 볼 자료를 선택 가능
 - 지역 검색을 통해 특정 지역의 자료만 표시 가능
 
-![메인](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/dd7c55d1fea4798169f901cd359fafe2/%EB%A9%94%EC%9D%B8.png)
 
-![메인2](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/12f166ca4ca0b8c91fea60ab2f71d05f/%EB%A9%94%EC%9D%B82.png)
 
-- 모바일로 볼 때 화면
-
-![메인_m1](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/688b90b29140653646098259eb381b1a/%EB%A9%94%EC%9D%B8_m1.png)
-
-![메인_m2](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/88f073babd8218c9e59f56cfff26f46b/%EB%A9%94%EC%9D%B8_m2.png)
 
 #### 상세페이지
 
 - 택배들의 정보를 볼 수 있음.
 
-![상세](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/be97444d3d4feed61edb65a30c6fb05c/%EC%83%81%EC%84%B8.png)
-
-![상세m](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/6c38f1738b24c82f9d25826952ac8354/%EC%83%81%EC%84%B8m.png)
-
 #### 로봇페이지
 
 - 현재 로봇들의 상태 확인 가능
 
-  ![로봇](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/886e6f8cfd98efda18fca2332cb90f8f/%EB%A1%9C%EB%B4%87.png)
-
-![로봇m](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/9c19ed0ae9aee0ddbe8414ba1f97462b/%EB%A1%9C%EB%B4%87m.png)
 
 #### 알림페이지
 
-![알림1](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/113cf2aeb4922b3d21d9a03b3f1cdf42/%EC%95%8C%EB%A6%BC1.png)
-
-![알림](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/cf38db288a408715d37a0cd5012f061a/%EC%95%8C%EB%A6%BC.png)
-
-![알림_m](https://lab.ssafy.com/s06-iot-control-sub2/S06P22A501/uploads/d2e41ad863098ce2ff0302811ba3f65e/%EC%95%8C%EB%A6%BC_m.png)
 
 [위로](#목차)
 
